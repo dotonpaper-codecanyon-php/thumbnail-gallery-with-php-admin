@@ -1,4 +1,2 @@
-doptg
-=====
-
-Thumbnail Gallery (with PHP Admin)
+Thumbnail Gallery with PHP Admin
+======
